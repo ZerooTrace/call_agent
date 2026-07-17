@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+twilio
+google-generativeai
+requests
+dotenv
+python-multipart
+google-genai
